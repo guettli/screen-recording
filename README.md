@@ -10,6 +10,8 @@ Round cutout mask for OBS: https://www.versluis.com/2019/01/obs-round-cutout-mas
 
 I record each slide on its own with this naming schema: 010-first.mkv, 020-second.mkv, ....
 
+Before recording: If you don't need the mouse cursor to present something, then move the mouse cursor out of the screen, so it is not visible. 
+
 This way I can insert videos later.
 
 To join several video files: https://github.com/transitive-bullshit/ffmpeg-concat
