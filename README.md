@@ -29,3 +29,6 @@ time ./node_modules/.bin/ffmpeg-concat -t circleopen -d 750 -o out/out.mp4 *mp4
 Since OBS worked very well I donated some money to them: https://obsproject.com/de/contribute
 
 
+# WOL
+
+[Working out loud](https://github.com/guettli/wol)
