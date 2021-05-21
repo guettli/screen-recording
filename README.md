@@ -28,6 +28,6 @@ Then create one mp4 file from the files:
 time ./node_modules/.bin/ffmpeg-concat -t circleopen -d 750 -o out/out.mp4 *mp4
 ```
 
-
+Since OBS worked very well I donated some money to them: https://obsproject.com/de/contribute
 
 
