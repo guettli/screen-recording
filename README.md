@@ -8,11 +8,9 @@ When recording: on one side of the screen I look at the speaker notes, the other
 
 Round cutout mask for OBS: https://www.versluis.com/2019/01/obs-round-cutout-mask/
 
-I record each slide on its own with this naming schema: 010-first.mkv, 020-second.mkv, ....
+I record each slide on its own with this naming schema: 010-first.mkv, 020-second.mkv, .... This way I can insert videos later.
 
 Before recording: If you don't need the mouse cursor to present something, then move the mouse cursor out of the screen, so it is not visible. 
-
-This way I can insert videos later.
 
 To join several video files: https://github.com/transitive-bullshit/ffmpeg-concat
 
