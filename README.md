@@ -23,7 +23,7 @@ for file in *.mkv; do echo $file; ffmpeg -i $file -c copy ${file}.mp4; done
 Then create one mp4 file from the files:
 
 ```
-time ./node_modules/.bin/ffmpeg-concat -t circleopen -d 750 -o out/out3.mp4 *mp4
+time ./node_modules/.bin/ffmpeg-concat -t circleopen -d 750 -o out/out.mp4 *mp4
 ```
 
 
