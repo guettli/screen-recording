@@ -12,7 +12,7 @@ I record each slide on its own with this naming schema: 010-first.mkv, 020-secon
 
 This way I can insert videos later.
 
-To join several mkv files: https://github.com/transitive-bullshit/ffmpeg-concat
+To join several video files: https://github.com/transitive-bullshit/ffmpeg-concat
 
 Loading mkv files directly failed for me, so I needed to create mp4 files first:
 
