@@ -38,6 +38,10 @@ Since OBS worked very well I donated some money to them: https://obsproject.com/
 
 If you record yourself, then fairy lights with a warm white behind the camera give you a shadowless light on your face.
 
+# Video format: webm
+
+[WebM](https://en.wikipedia.org/wiki/WebM) is the best choice at the moment. See [Can I use: WebM](https://caniuse.com/webm)
+
 # WOL
 
 [Working out loud](https://github.com/guettli/wol)
