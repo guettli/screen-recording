@@ -6,6 +6,10 @@ Slides: Google Slides with Speaker notes
 
 When recording: on one side of the screen I look at the speaker notes, the other side contains the OBS GUI.
 
+# OBS: Capter Monitor, not Window
+
+Otherwise pop-ups or drop-down boxes of selects input fields are not visible.
+
 # Round cutout mask
 
 Round cutout mask for OBS: https://www.versluis.com/2019/01/obs-round-cutout-mask/
