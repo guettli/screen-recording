@@ -6,7 +6,7 @@ Slides: Google Slides with Speaker notes
 
 When recording: on one side of the screen I look at the speaker notes, the other side contains the OBS GUI.
 
-# OBS: Capter Monitor, not Window
+# OBS: Capter Screen, not Window
 
 Otherwise pop-ups or drop-down boxes of selects input fields are not visible.
 
